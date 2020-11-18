@@ -21,7 +21,7 @@ End with a few screenshots
 
 ## Built with
 
-* [Swift 4.2](https://developer.apple.com/swift/) - The programming language used
+* Dart(https://dart.dev/) - The programming language used
 * VIPER - Design Pattern
 * No external libraries were used in this project
 
